@@ -6,40 +6,32 @@ no-cv-ss = true
 export-glyph-names = false
 no-ligation = true
 
-[buildPlans.devka.slopes.upright]
-angle = 0
-shape = "upright"
-menu = "upright"
-css = "normal"
-
-[buildPlans.devka.slopes.italic]
-angle = 9.4
-shape = "italic"
-menu = "italic"
-css = "italic"
+[buildPlans.devka.variants]
+inherits = "ss20"
 
 [buildPlans.devka.variants.design]
+capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "short-serifed"
-f = "flat-hook"
+f = "serifless"
 g = "single-storey-flat-hook-serifless"
-l = "tailed-serifed"
-t = "flat-hook"
-eszet = "longs-s-lig-descending"
+i = "serifed"
+l = "serifed-flat-tailed"
+eszet = "sulzbacher-descending"
 cyrl-capital-ze = "bilateral-serifed"
-cyrl-ze = "serifless"
-cyrl-capital-ka = "symmetric-connected-serifed"
+cyrl-ze = "unilateral-serifed"
 four = "closed"
-six = "closed-contour"
-nine = "closed-contour"
-paren = "normal"
-brace = "curly"
+ampersand = "closed"
 at = "short"
 question = "corner-flat-hooked"
 
 [buildPlans.devka.variants.italic]
 f = "flat-hook-tailed"
+h = "tailed"
+i = "tailed-serifed"
 k = "diagonal-tailed-cursive-serifless"
-v = "curly"
+l = "tailed-serifed"
+m = "tailed"
+n = "tailed"
 
 [buildPlans.devka.weights.regular]
 shape = 400
@@ -66,7 +58,29 @@ shape = 700
 menu = 700
 css = 700
 
+[buildPlans.devka.weights.extrabold]
+shape = 800
+menu = 800
+css = 800
+
+[buildPlans.devka.weights.heavy]
+shape = 900
+menu = 900
+css = 900
+
 [buildPlans.devka.widths.normal]
 shape = 500
 menu = 5
 css = "normal"
+
+[buildPlans.devka.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.devka.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
