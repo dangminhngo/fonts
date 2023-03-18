@@ -6,32 +6,30 @@ no-cv-ss = true
 export-glyph-names = false
 no-ligation = true
 
-[buildPlans.devka.variants]
-inherits = "ss20"
-
 [buildPlans.devka.variants.design]
 capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "short-serifed"
-f = "serifless"
+capital-q = "curly-tailed"
+f = "flat-hook"
 g = "single-storey-flat-hook-serifless"
-i = "serifed"
-l = "serifed-flat-tailed"
+l = "tailed-serifed"
+t = "flat-hook"
 eszet = "sulzbacher-descending"
 cyrl-capital-ze = "bilateral-serifed"
-cyrl-ze = "unilateral-serifed"
 four = "closed"
-ampersand = "closed"
+brace = "curly"
+ampersand = "upper-open"
 at = "short"
 question = "corner-flat-hooked"
 
 [buildPlans.devka.variants.italic]
 f = "flat-hook-tailed"
 h = "tailed"
-i = "tailed-serifed"
 k = "diagonal-tailed-cursive-serifless"
-l = "tailed-serifed"
 m = "tailed"
 n = "tailed"
+v = "cursive"
+w = "cursive"
 
 [buildPlans.devka.weights.regular]
 shape = 400
