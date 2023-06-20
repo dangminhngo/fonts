@@ -6,29 +6,35 @@ no-cv-ss = true
 export-glyph-names = false
 no-ligation = true
 
-[buildPlans.jetka.variants]
-inherits = "ss14"
-
 [buildPlans.jetka.variants.design]
+capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "short-serifed"
-capital-u = "toothless-rounded"
+capital-q = "straight"
+f = "flat-hook-serifless"
+g = "single-storey-flat-hook-serifless"
 l = "tailed-serifed"
-u = "toothed"
+t = "flat-hook"
 eszet = "sulzbacher-descending"
-lower-alpha = "crossing"
-zero = "slashed"
-seven = "straight-serifless"
+cyrl-capital-ze = "unilateral-serifed"
+one = "base"
+three = "flat-top"
+four = "semi-open-non-crossing"
+asterisk = "penta-low"
+underscore = "high"
+paren = "normal"
 ampersand = "upper-open"
-at = "short"
-percent = "rings-segmented-slash"
+at = "compact"
+question = "corner-flat-hooked"
+micro-sign = "tailed"
 
 [buildPlans.jetka.variants.italic]
-i = "tailed-serifed"
-k = "symmetric-connected-serifless"
-m = "tailed"
-n = "tailed"
-v = "straight"
-w = "cursive"
+f = "flat-hook-tailed"
+h = "tailed-serifless"
+k = "cursive-bottom-right-serifed"
+m = "tailed-serifless"
+n = "tailed-serifless"
+v = "cursive-serifed"
+w = "cursive-serifless"
 
 [buildPlans.jetka.weights.regular]
 shape = 400
