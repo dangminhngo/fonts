@@ -10,27 +10,28 @@ no-ligation = true
 capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "short-serifed"
 capital-q = "straight"
-f = "flat-hook-serifless"
+f = "serifless"
 g = "single-storey-flat-hook-serifless"
-l = "tailed-serifed"
-t = "flat-hook"
+l = "serifed"
 eszet = "sulzbacher-descending"
 cyrl-capital-ze = "unilateral-serifed"
-one = "base"
+cyrl-ze = "unilateral-serifed"
+one = "no-base-long-top-serif"
+two = "straight-neck"
 three = "flat-top"
 four = "semi-open-non-crossing"
-asterisk = "penta-low"
-underscore = "high"
-paren = "normal"
+six = "straight-bar"
+nine = "straight-bar"
 ampersand = "upper-open"
 at = "compact"
 question = "corner-flat-hooked"
-micro-sign = "tailed"
+micro-sign = "toothed-bottom-right-serifed"
 
 [buildPlans.jetka.variants.italic]
 f = "flat-hook-tailed"
 h = "tailed-serifless"
 k = "cursive-bottom-right-serifed"
+l = "tailed-serifed"
 m = "tailed-serifless"
 n = "tailed-serifless"
 v = "cursive-serifed"
@@ -87,3 +88,13 @@ angle = 9.4
 shape = "italic"
 menu = "italic"
 css = "italic"
+
+
+[buildPlans.jetka.metric-override]
+leading = 1500
+winMetricAscenderPad = 0
+winMetricDescenderPad = 0
+powerlineScaleY = 1
+powerlineScaleX = 1
+powerlineShiftY = 0
+powerlineShiftX = 0
