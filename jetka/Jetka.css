@@ -1,0 +1,216 @@
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Jetka-Regular.WOFF2') format('woff2'), url('TTF/Jetka-Regular.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: semi-expanded;
+	font-style: normal;
+	src: url('WOFF2/Jetka-SemiExtended.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtended.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Jetka-Italic.WOFF2') format('woff2'), url('TTF/Jetka-Italic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: semi-expanded;
+	font-style: italic;
+	src: url('WOFF2/Jetka-SemiExtendedItalic.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Jetka-Medium.WOFF2') format('woff2'), url('TTF/Jetka-Medium.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: semi-expanded;
+	font-style: normal;
+	src: url('WOFF2/Jetka-SemiExtendedMedium.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedMedium.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Jetka-MediumItalic.WOFF2') format('woff2'), url('TTF/Jetka-MediumItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: semi-expanded;
+	font-style: italic;
+	src: url('WOFF2/Jetka-SemiExtendedMediumItalic.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedMediumItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Jetka-SemiBold.WOFF2') format('woff2'), url('TTF/Jetka-SemiBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: semi-expanded;
+	font-style: normal;
+	src: url('WOFF2/Jetka-SemiExtendedSemiBold.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedSemiBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Jetka-SemiBoldItalic.WOFF2') format('woff2'), url('TTF/Jetka-SemiBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: semi-expanded;
+	font-style: italic;
+	src: url('WOFF2/Jetka-SemiExtendedSemiBoldItalic.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedSemiBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Jetka-Bold.WOFF2') format('woff2'), url('TTF/Jetka-Bold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: semi-expanded;
+	font-style: normal;
+	src: url('WOFF2/Jetka-SemiExtendedBold.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Jetka-BoldItalic.WOFF2') format('woff2'), url('TTF/Jetka-BoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: semi-expanded;
+	font-style: italic;
+	src: url('WOFF2/Jetka-SemiExtendedBoldItalic.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Jetka-ExtraBold.WOFF2') format('woff2'), url('TTF/Jetka-ExtraBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: semi-expanded;
+	font-style: normal;
+	src: url('WOFF2/Jetka-SemiExtendedExtraBold.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedExtraBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Jetka-ExtraBoldItalic.WOFF2') format('woff2'), url('TTF/Jetka-ExtraBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: semi-expanded;
+	font-style: italic;
+	src: url('WOFF2/Jetka-SemiExtendedExtraBoldItalic.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedExtraBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Jetka-Heavy.WOFF2') format('woff2'), url('TTF/Jetka-Heavy.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: semi-expanded;
+	font-style: normal;
+	src: url('WOFF2/Jetka-SemiExtendedHeavy.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedHeavy.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Jetka-HeavyItalic.WOFF2') format('woff2'), url('TTF/Jetka-HeavyItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Jetka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: semi-expanded;
+	font-style: italic;
+	src: url('WOFF2/Jetka-SemiExtendedHeavyItalic.WOFF2') format('woff2'), url('TTF/Jetka-SemiExtendedHeavyItalic.TTF') format('truetype');
+}
